@@ -1,6 +1,6 @@
 # Cidade Dorme
 ## Objetivos
-Criar um sistema que utilize do sorteio de personagens para facilitar a partida durante o jogo Cidade dorme, que haja espaços para escrever o nome dos participantes que ocuparão cada papel, seja ele obrigatório ou essencial; apresentar também a função de cada um dos personagens, o que ele deve fazer e as condições para sua vitória ou derrota. Também adicionar uma tela de confirmação entre o sorteio e revelação de cada papel
+Criar um sistema que utilize do sorteio de personagens para facilitar a partida durante o jogo Cidade Dorme, que haja espaços para escrever o nome dos participantes que ocuparão cada papel, seja ele obrigatório ou essencial; apresentar também a função de cada um dos personagens, o que ele deve fazer e as condições para sua vitória ou derrota. Também adicionar uma tela de confirmação entre o sorteio e revelação de cada papel
 
 ### Stack Tecnlógico
 - Backend: PHP estruturado com sessões nativas
